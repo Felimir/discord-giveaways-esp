@@ -1,6 +1,6 @@
 {
   "name": "discord-giveaways-esp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Módulo copia de \"discord-giveaways\", pero con los mensajes en español.",
   "main": "index.js",
   "scripts": {
