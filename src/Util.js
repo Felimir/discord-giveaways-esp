@@ -30,7 +30,7 @@ const GiveawaysMessages = {
     noWinner: '❌ **|** Sorteo cancelado, no hay participantes válidos.',
     hostedBy: '👑 **|** Creado por: {user}',
     winners: 'ganador(es)',
-    endedAt: '📅 **|** Termina el: ',
+    endedAt: 'Terminó: ',
     units: {
         seconds: 'segundo(s)',
         minutes: 'minuto(s)',
