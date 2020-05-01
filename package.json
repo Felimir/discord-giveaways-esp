@@ -1,0 +1,32 @@
+{
+  "name": "discord-giveaways-esp",
+  "version": "0.0.1",
+  "description": "Módulo copia de \"discord-giveaways\", pero con los mensajes en español.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felimir/discord-giveaways-esp.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-giveaways",
+    "discord-giveaways-esp",
+    "discordjs"
+  ],
+  "author": "Felipe García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felimir/discord-giveaways-esp/issues"
+  },
+  "homepage": "https://github.com/Felimir/discord-giveaways-esp#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "events": "^3.1.0",
+    "fs": "0.0.1-security",
+    "merge-options": "^2.0.0",
+    "util": "^0.12.3"
+  }
+}
